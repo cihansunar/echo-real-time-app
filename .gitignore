@@ -9,9 +9,6 @@ pom.xml.next
 release.properties
 
 .DS_Store
-.idea
-.classpath
-.settings
 .metadata
 
 .gradle
